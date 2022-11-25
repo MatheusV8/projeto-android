@@ -47,7 +47,8 @@
         margin-right: 10px;
         margin-bottom: 20px;
         margin: auto;
-        
+        padding-bottom: 50px;
+        text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.192);
     }
     header > h1{
         color: white;
